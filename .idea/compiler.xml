@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-classes-java.main" target="13" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-generated-sources-annotationProcessor-java.main" target="13" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-generated-sources-headers-java.main" target="13" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-reports-tests.main" target="13" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-test-results.main" target="13" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-tmp.main" target="13" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task.main" target="13" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Ability_to_change.main" target="13" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Average.main" target="13" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Deposit.main" target="13" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Gold_mining.main" target="13" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Initialization.main" target="13" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Multiplication.main" target="13" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Round_and_power.main" target="13" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Rounding_with_a_given_precision.main" target="13" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Theory.main" target="13" />
+      <module name="Number_Base_Converter.Topics-BigInteger-An_expression_with_large_numbers.main" target="13" />
+      <module name="Number_Base_Converter.Topics-BigInteger-BigInteger_facts.main" target="13" />
+      <module name="Number_Base_Converter.Topics-BigInteger-Comparing_numbers.main" target="13" />
+      <module name="Number_Base_Converter.Topics-BigInteger-Double_factorial.main" target="13" />
+      <module name="Number_Base_Converter.Topics-BigInteger-Multiplication.main" target="13" />
+      <module name="Number_Base_Converter.Topics-BigInteger-The_smallest_value.main" target="13" />
+      <module name="Number_Base_Converter.Topics-BigInteger-Theory.main" target="13" />
+      <module name="Number_Base_Converter.Topics-BigInteger-What_can_BigInteger_store.main" target="13" />
+      <module name="Number_Base_Converter.Topics-BigInteger-Where_you_can_get_BigInteger.main" target="13" />
+      <module name="Number_Base_Converter.Topics-Multiple_constructors-About_constructors.main" target="13" />
+      <module name="Number_Base_Converter.Topics-Multiple_constructors-Class_instantiation.main" target="13" />
+      <module name="Number_Base_Converter.Topics-Multiple_constructors-Employee.main" target="13" />
+      <module name="Number_Base_Converter.Topics-Multiple_constructors-Entanglement.main" target="13" />
+      <module name="Number_Base_Converter.Topics-Multiple_constructors-Movie.main" target="13" />
+      <module name="Number_Base_Converter.Topics-Multiple_constructors-Phone.main" target="13" />
+      <module name="Number_Base_Converter.Topics-Multiple_constructors-Suppose,_you_have_a_class.main" target="13" />
+      <module name="Number_Base_Converter.Topics-Multiple_constructors-Theory.main" target="13" />
+      <module name="Number_Base_Converter.Topics-Multiple_constructors-Time.main" target="13" />
+      <module name="Number_Base_Converter.util.main" target="13" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

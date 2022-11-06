@@ -19,5 +19,5 @@ Upgrade your converter: enable it to convert numbers between any numeral systems
 <b>Stage 4/4:</b>
 Make it possible for the converter to work with fractions, especially with large fractional numbers.
 
-Final source code for last stage can be found below:
+Final source code for last stage can be found below:<br>
 https://github.com/MichalGrzelakOneThree/number_base_converter/blob/main/Number%20Base%20Converter/task/src/converter/Main.java

@@ -6,7 +6,11 @@ Simple number base converter.
 
 <b>Description via Jet Brains Academy (educational platform):</b>
 
-We’re all quite used to our good old decimal system of numerals. But let’s not forget that there are other ways to count! Whether we need to convert numbers from one system to another just for fun or to store large data more efficiently, a converter proves helpful. In this project, you will create your own tool that will help you convert numbers from one system to another.
+We’re all quite used to our good old decimal system of numerals. But let’s not forget that there are other ways to count! Whether we need to convert numbers from one system to another just for fun or to store large data more efficiently, a converter proves helpful. In this project, you will create your own tool that will help you convert numbers from one system to another.<br>
+
+Full description:<br>
+https://hyperskill.org/projects/181?track=12
+
 
 <b>What you'll do and what you'll learn:</b>
 
